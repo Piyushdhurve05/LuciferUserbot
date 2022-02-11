@@ -21,7 +21,7 @@ Best User Bot To Manage Your Telegram Account
 
 ### Host Friday In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/silverhalobit/LuciferUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Piyushdhurve05/LuciferUserbot)
 
 ## Telegram-String
 
@@ -32,7 +32,7 @@ Best User Bot To Manage Your Telegram Account
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/silverhalobit/LuciferUserbot
+git clone https://github.com/Piyushdhurve05/LuciferUserbot
 cd LuciferUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
